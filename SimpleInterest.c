@@ -10,6 +10,6 @@ int main ()
     printf("\n Enter Value of R:");
     scanf("%d",&r);
     interest=a*t*r/100;
-    printf("\n INTEREST=%D",interest);
+    printf("\n INTEREST=%d",interest);
     return 0;
 }
